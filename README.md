@@ -2,7 +2,7 @@
     <title>Reptilian Universe</title>
     <body style="font-family:sans-serif;">
         <header style="background-color:DarkGreen;color:Cornsilk">
-            <img src="https://th.bing.com/th/id/OIP.ntX_f3ZaqdeFgviY0jvlJwAAAA?rs=1&pid=ImgDetMain" height="50px"/ id="start">
+            <img src="https://avatars.mds.yandex.net/i?id=491acd56ea8d996f7d8dbc10e2ccc18f_l-8498056-images-thumbs&n=13" height="50px"/ id="start">
             <a href="#reptiles" style="color:Cornsilk; font-size:20px;">Общая информация о рептилиях</a>
             <a href="#price" style="color:Cornsilk; font-size:20px;">Прайс-лист</a>
         </header>
